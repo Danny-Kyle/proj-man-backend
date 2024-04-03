@@ -1,1 +1,1 @@
-# proj-man-backend
+# proj-mngmnt-react-graphql
